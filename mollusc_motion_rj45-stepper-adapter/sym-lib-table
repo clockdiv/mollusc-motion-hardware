@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RJ45-Terminalblock-Adapter-rescue")(type "KiCad")(uri "${KIPRJMOD}/RJ45-Terminalblock-Adapter-rescue.kicad_sym")(options "")(descr ""))
+)
