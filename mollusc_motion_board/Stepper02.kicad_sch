@@ -1285,7 +1285,7 @@
     )
     (pin "1" (uuid 0e5fb84f-7b7e-439e-b673-67d96e210d9e))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR01") (unit 1)
         )
@@ -1321,7 +1321,7 @@
     )
     (pin "1" (uuid b5a98ae4-fac6-4b75-9b3d-d84c14983701))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR040") (unit 1)
         )
@@ -1353,7 +1353,7 @@
     (pin "1" (uuid 9e4dd511-cb60-4e76-83ab-4dc4d3d87d4b))
     (pin "2" (uuid 67697961-64e2-46ac-b049-14c7679efffe))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "C3") (unit 1)
         )
@@ -1389,7 +1389,7 @@
     )
     (pin "1" (uuid 16601381-ffa5-4277-a9c3-13d3c043d558))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR013") (unit 1)
         )
@@ -1429,7 +1429,7 @@
     (pin "1" (uuid 8df3779f-58fd-4d48-8210-47e4f525c26d))
     (pin "2" (uuid d25e88b3-bc31-4ee1-96c9-169a70d75b1e))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "R1") (unit 1)
         )
@@ -1465,7 +1465,7 @@
     )
     (pin "1" (uuid 03a8ccbe-4f11-4943-a218-573dc28d03fe))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR03") (unit 1)
         )
@@ -1517,7 +1517,7 @@
     (pin "14" (uuid d4ec4cc0-c7e3-4c4b-a2ed-421d36e76497))
     (pin "7" (uuid 171e8a17-a47e-4d84-850f-40541ea438c9))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03/679b5948-2929-4082-9ec3-0ebae5348a76"
           (reference "U6") (unit 1)
         )
@@ -1545,7 +1545,7 @@
     )
     (pin "1" (uuid e128dadb-4eee-4b44-8fe2-d8c7b890014c))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR03") (unit 1)
         )
@@ -1581,7 +1581,7 @@
     )
     (pin "1" (uuid a71be354-6d81-4372-a8f6-b7a8e84e9cf8))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR013") (unit 1)
         )
@@ -1652,7 +1652,7 @@
     (pin "D7" (uuid a978f803-1b83-4d13-b420-11edb889ea0b))
     (pin "D8" (uuid 4b4e0fea-d46a-48f3-b808-4c82bf97c54b))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03/679b5948-2929-4082-9ec3-0ebae5348a76"
           (reference "J3") (unit 1)
         )
@@ -1684,7 +1684,7 @@
     (pin "1" (uuid 4f827fd9-dfa9-4366-a42e-48b8d29b6b23))
     (pin "2" (uuid 8d371acf-82a0-48d9-a893-c5f8c3bcb6bc))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "R2") (unit 1)
         )
@@ -1720,7 +1720,7 @@
     )
     (pin "1" (uuid 9ce63294-8bc0-436a-8163-eab5708c66f6))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR02") (unit 1)
         )
@@ -1756,7 +1756,7 @@
     )
     (pin "1" (uuid 5936c280-91ed-4678-a4f9-676e75801321))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR04") (unit 1)
         )
@@ -1792,7 +1792,7 @@
     )
     (pin "1" (uuid 355a4930-bac5-45a2-acdc-9d1f676004a5))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR06") (unit 1)
         )
@@ -1828,7 +1828,7 @@
     )
     (pin "1" (uuid 043b7533-4c52-4d2d-8b17-63d869d8a69f))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR013") (unit 1)
         )
@@ -1864,7 +1864,7 @@
     )
     (pin "1" (uuid 246b9002-9e59-4505-9e92-1a3db033aa7a))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR05") (unit 1)
         )
@@ -1903,7 +1903,7 @@
     )
     (pin "1" (uuid 9d5d9e9d-3451-4a71-83e0-75cfde290934))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR040") (unit 1)
         )
@@ -1931,7 +1931,7 @@
     )
     (pin "1" (uuid b16a20c8-44ab-4e8a-b887-467d99a1a195))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR07") (unit 1)
         )
@@ -2010,7 +2010,7 @@
     (pin "8" (uuid e51ef7a4-886d-4d1a-befe-e3033bde4e68))
     (pin "9" (uuid 60b38d85-d10c-4942-a1a3-5b2363b937a2))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03/679b5948-2929-4082-9ec3-0ebae5348a76"
           (reference "U6") (unit 1)
         )
@@ -2045,7 +2045,7 @@
     (pin "1" (uuid c18d970a-0365-427d-b921-309b288b362c))
     (pin "2" (uuid 8fa4f44e-cc99-44ba-b2a5-6ce9724789f1))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "C1") (unit 1)
         )

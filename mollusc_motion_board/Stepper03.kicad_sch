@@ -1285,7 +1285,7 @@
     )
     (pin "1" (uuid 3ecd9e0d-eb75-425a-98c1-30595dfc30fd))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR01") (unit 1)
         )
@@ -1321,7 +1321,7 @@
     )
     (pin "1" (uuid d3b6b7c8-fcc0-42bc-a8e2-1d5e2a0cb40f))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR013") (unit 1)
         )
@@ -1364,7 +1364,7 @@
     (pin "1" (uuid e207b19e-946c-46fc-bbfd-6802a23fa31b))
     (pin "2" (uuid 513a36d6-fa96-4a32-a230-56df414cb1fa))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "C1") (unit 1)
         )
@@ -1407,7 +1407,7 @@
     (pin "1" (uuid 71792feb-4212-46d2-ab88-c474e7e8005e))
     (pin "2" (uuid 39991c4f-67a1-457f-a63c-eb2cfeca3699))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "R1") (unit 1)
         )
@@ -1443,7 +1443,7 @@
     )
     (pin "1" (uuid 12042681-d3c6-489e-a478-992718e5eafc))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR040") (unit 1)
         )
@@ -1471,7 +1471,7 @@
     )
     (pin "1" (uuid bd683ccf-60c8-4938-867b-73400e3c1d7a))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR03") (unit 1)
         )
@@ -1507,7 +1507,7 @@
     )
     (pin "1" (uuid d602e836-a9b0-43c8-9807-0037c698016f))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR04") (unit 1)
         )
@@ -1547,7 +1547,7 @@
     (pin "1" (uuid 364fb499-6147-49ac-9b39-54dcd9ebd9ef))
     (pin "2" (uuid 4ef416df-0ec4-46cf-a9ab-6d47f6f3320d))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "C3") (unit 1)
         )
@@ -1618,7 +1618,7 @@
     (pin "D7" (uuid d9ba7797-3a73-4d8b-8247-06f8a3849a83))
     (pin "D8" (uuid 8daf1446-0433-4978-8177-3ec50d9b10bc))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03/679b5948-2929-4082-9ec3-0ebae5348a76"
           (reference "J3") (unit 1)
         )
@@ -1646,7 +1646,7 @@
     )
     (pin "1" (uuid 0246863b-3a27-48d7-988f-b68abd916a71))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR013") (unit 1)
         )
@@ -1682,7 +1682,7 @@
     )
     (pin "1" (uuid cff648c6-7d4f-4691-9d75-a66655396557))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR05") (unit 1)
         )
@@ -1721,7 +1721,7 @@
     )
     (pin "1" (uuid 0f2b9310-d384-4e67-a996-a4991ac49003))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR013") (unit 1)
         )
@@ -1800,7 +1800,7 @@
     (pin "8" (uuid cd09de98-7910-4732-8957-bbc48396b9a8))
     (pin "9" (uuid 598894b9-8aee-4ea4-b4aa-629685506b1f))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03/679b5948-2929-4082-9ec3-0ebae5348a76"
           (reference "U6") (unit 1)
         )
@@ -1828,7 +1828,7 @@
     )
     (pin "1" (uuid f1c20385-98bf-4f02-bcd9-0f315b198c13))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR06") (unit 1)
         )
@@ -1864,7 +1864,7 @@
     )
     (pin "1" (uuid 86c95f0d-bc0d-4a9e-a9d8-3efe02052646))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR03") (unit 1)
         )
@@ -1900,7 +1900,7 @@
     )
     (pin "1" (uuid 3d991ec1-8d39-4c89-8deb-d4c9d8001247))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR07") (unit 1)
         )
@@ -1952,7 +1952,7 @@
     (pin "14" (uuid d4ec4cc0-c7e3-4c4b-a2ed-421d36e76497))
     (pin "7" (uuid 171e8a17-a47e-4d84-850f-40541ea438c9))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03/679b5948-2929-4082-9ec3-0ebae5348a76"
           (reference "U6") (unit 1)
         )
@@ -1980,7 +1980,7 @@
     )
     (pin "1" (uuid c87ef434-f397-4d5f-97fd-174d1d01f0a8))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR040") (unit 1)
         )
@@ -2008,7 +2008,7 @@
     )
     (pin "1" (uuid 3fde0fac-eea6-40d6-b61d-6b625554167a))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR02") (unit 1)
         )
@@ -2044,7 +2044,7 @@
     )
     (pin "1" (uuid 020a8656-7a35-4941-b829-22ec2e11c914))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "#PWR013") (unit 1)
         )
@@ -2084,7 +2084,7 @@
     (pin "1" (uuid dc11a568-73d1-474c-9fd4-cacf5893ebf2))
     (pin "2" (uuid 62e2cc38-4c72-4cbd-be52-8f1e33072eb6))
     (instances
-      (project "HangOn_Mainboard"
+      (project "mollusc_motion_board"
         (path "/351cebb8-982f-46d7-8218-395788e5ce03"
           (reference "R2") (unit 1)
         )
