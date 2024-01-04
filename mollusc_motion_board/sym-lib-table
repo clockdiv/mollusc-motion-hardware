@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "molluscmotion")(type "KiCad")(uri "/Users/julian/Ernst Busch/02__PROJEKTE/20230930 mollusc motion Hardware/mollusc-motion-hardware/libraries/symbol/molluscmotion.kicad_sym")(options "")(descr ""))
 )
