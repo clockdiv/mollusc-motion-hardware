@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 5.6,
-          "width": 5.6
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,13 +48,7 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -171,15 +165,8 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
@@ -405,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mollusc_motion_board.kicad_pro",
+    "filename": "JST_EH_2.5mm_ExtensionBoard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -426,40 +413,6 @@
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.5,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "BAT+",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.5,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "BAT-",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
-        "wire_width": 6
       }
     ],
     "meta": {
@@ -475,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../20240207_mollusc_motion_board_v1-2.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -516,24 +469,8 @@
   },
   "sheets": [
     [
-      "351cebb8-982f-46d7-8218-395788e5ce03",
+      "6cf86dd9-1e14-4b34-99ca-45ed467097c4",
       ""
-    ],
-    [
-      "679b5948-2929-4082-9ec3-0ebae5348a76",
-      "Stepper01"
-    ],
-    [
-      "c416ce84-8678-4ab5-ab91-bfcc4d019431",
-      "Stepper02"
-    ],
-    [
-      "241b4bb9-da37-4994-92a5-1bace8e7dd51",
-      "Stepper03"
-    ],
-    [
-      "05bbe288-4702-427c-a643-b420f982dbb6",
-      "DynamixelConnection"
     ]
   ],
   "text_variables": {}

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2024-07-23_10-14-01")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/2024-07-23_10-14-01.kicad_sym")(options "")(descr ""))
+  (lib (name "CL31B104KBCNNNC")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/JLC2KiCad_lib/symbol/CL31B104KBCNNNC.kicad_sym")(options "")(descr ""))
+  (lib (name "TAJB107K006RNJ")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/JLC2KiCad_lib/symbol/TAJB107K006RNJ.kicad_sym")(options "")(descr ""))
+  (lib (name "VE-221M1ETR-0810")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/JLC2KiCad_lib/symbol/VE-221M1ETR-0810.kicad_sym")(options "")(descr ""))
+)
