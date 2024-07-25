@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x09,Terminalblock_1x9_3.5mm,168.2623,-108.1001,-90.0,top
+J2,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,150.383,-98.552,-90.0,top
+J3,RJ45_Shielded,RJ45_Conrad_1586526,150.622,-113.284,0.0,top
